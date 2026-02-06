@@ -72,8 +72,3 @@ Ele compõe meu **portfólio como Analista de Testes / QA**, evidenciando minha 
 
 ---
 
-## 👩‍💻 Autora
-
-**Dayane Soares**
-Analista de Testes / QA
-GitHub: [@soaresdayane](https://github.com/soaresdayane)
